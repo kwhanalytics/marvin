@@ -1,5 +1,5 @@
 dill==0.2.7.1
-jinja2==2.8
+jinja2==2.11.3
 matplotlib==1.5.3
 pip==9.0.1
 pipreqs==0.4.9
